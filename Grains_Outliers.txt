@@ -1,0 +1,3 @@
+2 Rice, Regfrigeration OFF, KG
+6 Corn, Regfrigeration ON, KG
+8 Corn, Regfrigeration OFF, LTR

@@ -1,0 +1,7 @@
+{
+    "input_text" : "test.txt",
+
+    "output_outliers" : "test_outliers1.txt",
+
+    "output_outliers_fixed" : "test_outliersfixed1.txt"
+}
